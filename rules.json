@@ -1,0 +1,7 @@
+{
+  "en": {
+        "prefix": "Reply:",
+        "blocked_words": ["bad word", "very bad word"],
+        "extra_instructions": "Keep it friendly and helpful."
+    }
+}
